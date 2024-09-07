@@ -104,3 +104,15 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=0RTkWfzB&e=.m3u8|Referer=https://
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=4eavizab&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 #EXTINF:-1 tvg-id="he4be5di" tvg-name="TV9 Bangla" tvg-logo="https://i.postimg.cc/J0zSc30y/TV9-Bangla.png" tvg-chno="52" group-title="Nayeem's BDCast",TV9 Bangla
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=he4be5di&e=.m3u8|Referer=https://entezeetv.fun/bdcast/
+
+
+                                                              Sony Group
+
+#EXTINF:-1 tvg-id="" tvg-name="TV9 Bangla" tvg-logo="" tvg-chno="52" group-title="Sony",Sony Ten 1
+https://ekdilhai.pro/SPTEN1HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV9 Bangla" tvg-logo="" tvg-chno="52" group-title="Sony",Sony Ten 2
+https://ekdilhai.pro/IN_SNT2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV9 Bangla" tvg-logo="" tvg-chno="52" group-title="Sony",Sony Ten 3
+https://ekdilhai.pro/tenso3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV9 Bangla" tvg-logo="" group-title="Sony",Sony Ten 5
+
