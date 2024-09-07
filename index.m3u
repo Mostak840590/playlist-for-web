@@ -148,9 +148,11 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=he4be5di&e=.m3u8|Referer=https://
                                                                   
                                                                       Sports All
 
-#EXTINF:-1 tvg-id="" tvg-name="https://i.postimg.cc/J01MvBCL/images-6-copy-376x288.jpg" tvg-logo="" group-title="sports",A Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/J01MvBCL/images-6-copy-376x288.jpg" group-title="sports",A Sports
 https://sports.bdixtv24.com/m3u8.php/asportshd.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8PNdFXft/Fredflix-Logo-10.png" group-title="sports",ptv Sp
+https://sports.bdixtv24.com/m3u8.php/asportshd.m3u8
                                                               Sony Group Sports
 
 
